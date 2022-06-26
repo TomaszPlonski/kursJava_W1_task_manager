@@ -17,8 +17,7 @@ class TaskManager {
     }
 
     public static String[][] loadData(){
-        // spróbować zrobić jako nulla
-        String[][] tasks = new String[1][3];
+        String[][] tasks = {{}};
         boolean firstLine = true;
         try(Scanner scanner = new Scanner(new File("tasks.csv"))){
             while(scanner.hasNextLine()){
