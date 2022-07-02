@@ -37,5 +37,3 @@ On this page you will see list of all users. To add, show details, remove or upd
 # Why this simple?
 For now, the functionality and my skills are limited. 
 <b>Therefore any comments and advice will be appreciated</b>
-
-I plan to add data and admin validation. And then who knows what more ...
